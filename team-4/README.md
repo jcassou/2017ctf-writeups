@@ -9,7 +9,7 @@ CTF Writeup
 	* Trying to attack Team2 with SQL injection in CTF.
 - Jean Cassou-Mounat <jean.cassou-mounat@insa-lyon.fr>
     * Main role is developing flag updater.
-    	* Analysis shopping mall and tried SQL injection
+    * During CTF  : Analysis shopping mall and tried SQL injection on it
 - ...
 
 # List of Writeups
